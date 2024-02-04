@@ -134,7 +134,7 @@ html{
 }
 #slider{
     padding-top: 50%;
-    background: url('../img/slid1.jpg') top center /cover no-repeat;
+    background: url('./img/slid1.jpg') top center /cover no-repeat;
     position: relative;  
 }
 #slider .text-content{
