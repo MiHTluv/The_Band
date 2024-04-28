@@ -1,2 +1,2 @@
 HTML, CSS, JS  
-Link: https://mihtluv.github.io/The_Band/
+Link: https://ntmi2k3.github.io/The_Band/
